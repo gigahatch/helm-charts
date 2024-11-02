@@ -2,6 +2,14 @@ apiVersion: v1
 entries:
   gigahatch-cloud-controller-manager:
   - apiVersion: v2
+    created: "2024-11-02T12:55:04.084004728Z"
+    digest: f0ee7e181cc8f7d755162a053f9be58070f5da76eb957a21b62476e236547576
+    name: gigahatch-cloud-controller-manager
+    type: application
+    urls:
+    - gigahatch-cloud-controller-manager-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
     created: "2024-11-02T11:15:37.078544039Z"
     digest: 55bc452c952c71a7afff03113ca6e9799c98c9606ef5b17d429874b4699f0e33
     name: gigahatch-cloud-controller-manager
@@ -17,4 +25,4 @@ entries:
     urls:
     - gigahatch-cloud-controller-manager-0.0.1-rc1.tgz
     version: 0.0.1-rc1
-generated: "2024-11-02T11:15:37.077964556Z"
+generated: "2024-11-02T12:55:04.083425932Z"
