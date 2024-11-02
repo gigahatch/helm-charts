@@ -41,4 +41,19 @@ entries:
     urls:
     - gigahatch-cloud-controller-manager-0.0.1-rc1.tgz
     version: 0.0.1-rc1
-generated: "2024-11-02T14:49:23.145553379Z"
+  gigahatch-csi:
+  - apiVersion: v2
+    created: "2024-11-02T15:57:12.401932398Z"
+    description: Helm Chart for the CSI Driver on Gigahatch Cloud
+    digest: 4a8f79b829368f317ac125dc6f68bd26c79ee29daf81cd37ec22be9348837dcc
+    home: https://github.com/gigahatch/csi-driver
+    maintainers:
+    - email: support@gigahatch.ch
+      name: Gigahatch Cloud
+      url: https://github.com/gigahatch
+    name: gigahatch-csi
+    type: application
+    urls:
+    - gigahatch-csi-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-11-02T15:57:12.400644502Z"
