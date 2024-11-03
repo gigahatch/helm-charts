@@ -43,6 +43,20 @@ entries:
     version: 0.0.1-rc1
   gigahatch-csi:
   - apiVersion: v2
+    created: "2024-11-03T22:42:09.875128624Z"
+    description: Helm Chart for the CSI Driver on Gigahatch Cloud
+    digest: 093febfd2af67860025f6ec86bedcf0573577bdbaeef4057a4102bace11b571f
+    home: https://github.com/gigahatch/csi-driver
+    maintainers:
+    - email: support@gigahatch.ch
+      name: Gigahatch Cloud
+      url: https://github.com/gigahatch
+    name: gigahatch-csi
+    type: application
+    urls:
+    - gigahatch-csi-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v2
     created: "2024-11-02T16:15:21.145063498Z"
     description: Helm Chart for the CSI Driver on Gigahatch Cloud
     digest: eb71d5a4e07ad0590d72559af9a158c89cf63cb283d2612a7ec5d0a9bfb0f719
@@ -84,4 +98,4 @@ entries:
     urls:
     - gigahatch-csi-0.0.1.tgz
     version: 0.0.1
-generated: "2024-11-02T16:15:21.143769469Z"
+generated: "2024-11-03T22:42:09.873741369Z"
