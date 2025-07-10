@@ -134,4 +134,15 @@ entries:
     urls:
     - gigahatch-csi-0.0.1.tgz
     version: 0.0.1
-generated: "2024-11-23T10:45:49.192918464Z"
+  k3s-kubernetes-server-controller:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-07-10T06:16:40.94232257Z"
+    description: A Helm chart to distribute the project k3s-kubernetes-server-controller
+    digest: b470bbe82c705f9e3123ed1446109f4fbd079080277999012c27cd2647769017
+    name: k3s-kubernetes-server-controller
+    type: application
+    urls:
+    - k3s-kubernetes-server-controller-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-10T06:16:40.941635098Z"
